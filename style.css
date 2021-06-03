@@ -1,0 +1,214 @@
+
+
+/* header */
+.header-section{
+    position: sticky;
+    width: 100%;
+    top: 0;
+    left: 0;
+    background-color: #fff;
+    z-index: 5;
+}
+.my-css-head a i{
+    font-size: 22px;
+    color: #68b5fc;
+}
+span.logo {
+    font-size: 1.1rem;
+    font-weight: 700;
+    margin-left: 12px;
+}
+
+/* menu */
+.my-css-menu li{
+    padding: 0 8px;
+}
+.my-css-menu li a{
+    font-size: 1rem;
+    font-weight: 500;
+    transition: .4s;
+}
+.my-css-menu li a:hover{
+    color: #68b5fc !important;
+}
+
+/* slider-section */
+.slider-section{
+    background-color: #f9f9ff;
+}
+.slide-text {
+    margin-top: 190px;
+}
+.slide-text h4{
+    font-weight: 500;
+    color: #41413f;
+}
+.slide-text h1{
+    font-weight: 400;
+    font-size: 45px;
+}
+.slide-text p{
+    font-weight: 500;
+    color: #72726f;
+}
+
+.my-btn{
+    border: 2px solid #8490ff;
+    padding: 6px 16px;
+    background-color: #8490ff;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 15px;
+    font-weight: 600;
+    transition: .4s;
+    display: inline-block;
+}
+.my-btn:hover{
+    background-color: #fff;
+    color: black;
+}
+
+/* number item */
+.number-item h3{
+    font-weight: 700;
+    font-size: 2rem;
+}
+.number-item-section{
+    background-color: #8490ff;
+    color: #fff;
+    padding: 80px 0;
+}
+
+/*card item-section */
+.headar-text h1{
+    font-size: 35px;
+    font-weight: 500;
+    margin-bottom: 25px;
+}
+.headar-text p{
+    font-size: 18px;
+    font-weight: 500;
+}
+.item-section{
+    background-color: #f9f9ff;
+}
+.mycard-item {
+    background-color: #fff;
+    padding: 10px 10px;
+    box-shadow: 2.5px 4.33px 30px 0 rgb(64 87 191 / 25%);
+}
+.mycard-item h3 {
+    width: 100px;
+    height: 100px;
+    margin: auto;
+    background-color: #f9f9ff;
+    border-radius: 50%;
+    line-height: 100px;
+}
+.mycard-item h4 {
+    font-size: 20px;
+    font-weight: 400;
+    margin-top: 5px;
+}
+.mycard-item h5 {
+    font-size: 15px;
+    font-weight: 500;
+    margin-bottom: 30px;
+}
+.mycard-item p {
+    font-size: 17px;
+    font-weight: 500;
+    margin-bottom: 36px;
+}
+.mycard-item a{
+    text-decoration: none;
+    padding: 10px 20px;
+    border: 2px solid #8490ff;
+    border-radius: 5px;
+    display: inline-block;
+    margin-top: 20px;
+    margin-bottom: 32px;
+    font-size: 20px;
+    font-weight: 500;
+    box-shadow: 2.5px 4.33px 30px 0 rgb(64 87 191 / 30%);
+    color: #8490ff;
+    transition: .4s;
+}
+.mycard-item:hover.mycard-item a{
+    background-color: #8490ff;
+    color: #fff;
+}
+.mycard-item a:hover{
+    background-color: black !important;
+}
+
+/* mycard2-item 2222222 */
+.card-item2{
+    padding-top: 150px;
+    padding-bottom: 40px;
+}
+.mycard2-item img {
+    width: 100px;
+    margin-top: -70px;
+    margin-right: 130px;
+}
+.mycard2-item h4 {
+    font-size: 21px;
+    margin-top: 20px;
+}
+.mycard2-item h5 {
+    font-size: 15px;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+.mycard2-item p {
+    font-size: 15px;
+    font-weight: 500;
+}
+.mycard2-item a {
+    padding: 8px 15px;
+    text-decoration: none;
+    color: black;
+    display: inline-block;
+    font-size: 15px;
+    font-weight: 500;
+    margin-bottom: 30px;
+    transition: .5s;
+}
+.mycard2-item{
+    transition: .5s;
+}
+.mycard2-item:hover.mycard2-item a{
+    background-color: #8490ff;
+    color: #fff;
+}
+/* contact-section */
+.contact-section{
+    background-color: #f9f9ff;
+}
+.form-item111 {
+    padding: 45px;
+    background-color: #fff;
+}
+
+.form-text-list {
+    margin-top: 70px;
+    margin-left: 30px;
+}
+.form-text-list h4 {
+    font-size: 26px;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+.form-text-list h5 {
+    font-size: 18px;
+    color: #54585d;
+    margin-bottom: 18px;
+}
+button.mycssbtn {
+    font-size: 18px;
+    font-weight: 400;
+    color: #ffff;
+    background-color: #17a2b8;
+}
